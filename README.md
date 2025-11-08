@@ -1,2 +1,3 @@
 # bearbone
-A bear bone strongly type dynamic scripting language implemented in Scala.
+
+A bare-bone strongly typed, dynamic scripting language implemented in Scala.
